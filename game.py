@@ -5,7 +5,7 @@ import pgzrun
 import random
 
 
-TITLE = 'Tank vs Zombies by EscapeFromHell'
+TITLE = 'Tank vs Zombies'
 WIDTH = 800
 HEIGHT = 600
 TANK_SIZE = 20
